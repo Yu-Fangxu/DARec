@@ -4,3 +4,5 @@ Pytorch implementation of DARec: Deep Domain Adaptation for Cross-Domain Recomme
 1. Run Data_Preprocessing.py and set processed=False to generate rating matrix
 2. Run Train_AutoRec.py to get pretrained Autorec
 3. Run Train_DArec.py to get result
+
+My code is just for Reference, I do not promise it does not exist some errors.
